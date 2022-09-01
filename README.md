@@ -4,4 +4,4 @@ NPM	: 2106632182
 
 Kelas	: F
 
-Hobi	: Makan
+Hobi	: Minum
